@@ -16,11 +16,12 @@ function decrement(){
 console.log(count);
 }
 let previous=document.getElementById("save-el");
-
+let s=previous.innerText;
 function save(){
-previous.innerText+=count+" - ";
+previous.innerText=s+" "+count;
 count=0;
 countEl.innerText=count;
 
 }
+console.log(s);
 
