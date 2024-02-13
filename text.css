@@ -7,7 +7,7 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
-    background-image: url(/WhatsApp\ Image\ 2024-02-13\ at\ 1.17.35\ AM.jpeg);
+    background-image: url(WhatsApp\ Image\ 2024-02-13\ at\ 1.17.35\ AM.jpeg);
     background-size:cover;
     background-repeat: no-repeat;
     min-height: 100vh;
@@ -16,7 +16,7 @@ body{
     padding: 20px;
     margin: 20px;
     color:black;
-    width: 500px;
+    width: 450px;
     background-color: transparent;
     border: 2px solid rgb(255, 255, 255,.0) ;
     border-radius: 20px;
